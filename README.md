@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**almatikx/almatikx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Almat Dalabekov! I'm passionate about robotics, AI, and designing smart systems. 
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Programming:** Python, C++, ROS
+- **Robotics:** Manipulators, Mobile Robots, Drones
+- **Design Tools:** SolidWorks, MATLAB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Learning
+- Neural networks and machine learning algorithms.
+- Advanced control systems for intelligent robots.
+
+## 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/almatdalabekov)
+- [Portfolio](https://almatdalabekov.github.io)
